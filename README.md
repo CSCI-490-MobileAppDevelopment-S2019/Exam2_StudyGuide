@@ -38,14 +38,11 @@ Study guide for Exam #2
 * High level understanding of streams
 * Use of AsyncTask
 
-## Location Based Applications
-* Google Play Services (high level)
-* GoogleApiClient
+## Firebase
+* Firebase Services (high level)
 * Asyncronous Programming Model
-* Connection callbacks
-* OnConnectionFailedListener
-* OnMapReady interface for Maps
-* Other Play Services (high level)
+* Firebase Realtime Database Callbacks
+* Other Firebase Services (high level)
 
 ## Material Design
 * High level 
